@@ -1,0 +1,5 @@
+{
+  "name": "Tarot numérico",
+  "description": "Una aplicación web interactiva que adivina un número entre 1 y 63 que estés pensando, usando la lógica de tarjetas binarias con un toque mágico.",
+  "requestFramePermissions": []
+}
