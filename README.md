@@ -29,7 +29,7 @@
 
 ## 🌐 ¡Juega ahora!
 
-👉 [Jugar Tarot Numérico en Vercel](https://TUSITIO.vercel.app)
+👉 [Jugar Tarot Numérico en Vercel](https://tarot-numerico.vercel.app/)
 
 (⬆️ Reemplaza este link con el enlace real una vez desplegado)
 
