@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { CardData } from '../types';
 
@@ -8,7 +9,7 @@ interface CardProps {
 }
 
 const Card: React.FC<CardProps> = ({ cardData, isSelected, onToggle }) => {
-  const { id, name, value, numbers, bgColor, textColor, selectedRingColor } = cardData;
+  const { id, name, numbers, bgColor, textColor, selectedRingColor } = cardData; // Removed value from destructuring as it's not displayed
 
   return (
     <div
@@ -28,8 +29,9 @@ const Card: React.FC<CardProps> = ({ cardData, isSelected, onToggle }) => {
     >
       <div className="flex flex-col items-center p-3 space-y-2 h-full">
         <h3 className="text-xl font-bold text-center">{name}</h3>
-        <p className="text-sm opacity-80">(Valor: {value})</p>
-        <div className="grid grid-cols-4 gap-x-3 gap-y-1 text-center text-sm font-medium h-48 w-full overflow-y-auto p-2 rounded-md bg-black/10 scrollbar-thin">
+        {/* <p className="text-sm opacity-80">(Valor: {value})</p>  <- This line is removed */}
+        <div className="grid grid-cols-4 gap-x-3 gap-y-1 text-center text-sm font-medium h-56 w-full p-2 rounded-md bg-black/10"> 
+          {/* Increased h-48 to h-56 and removed overflow-y-auto and scrollbar-thin */}
           {numbers.map((num) => (
             <span key={num} className="py-0.5 px-0.5">
               {num}
