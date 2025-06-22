@@ -32,8 +32,6 @@
 
 👉 [Jugar Tarot Numérico en Vercel](https://tarot-numerico.vercel.app/)
 
-(⬆️ Reemplaza este link con el enlace real una vez desplegado)
-
 ---
 
 ## 🧠 ¿La lógica detrás?
