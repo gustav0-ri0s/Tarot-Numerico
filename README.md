@@ -50,3 +50,10 @@ git clone https://github.com/tuusuario/tarot-numerico.git
 cd tarot-numerico
 npm install
 npm run dev
+
+---
+
+## 📄 Licencia
+
+Puedes usar, modificar o adaptar este proyecto libremente.
+Solo no reveles el truco… 🤐
