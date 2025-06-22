@@ -1,3 +1,4 @@
+![BANNER TAROT](https://github.com/user-attachments/assets/deed6e12-cc78-4319-9974-8140b8a0b33b)
 # 🔮 Tarot Numérico
 
 **Tarot Numérico** es un juego web interactivo donde el usuario piensa en un número secreto del 1 al 63, elige unas misteriosas cartas con números y... ¡el sistema adivina su número! ¿Magia? ¿Suerte? Solo quien lea el código conocerá el verdadero secreto detrás del oráculo numérico. 😏
