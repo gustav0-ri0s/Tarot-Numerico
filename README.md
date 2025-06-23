@@ -54,6 +54,12 @@ npm run dev
 
 ---
 
+## Créditos
+
+Gracias al profesor Óscar Ayay Sánchez, por su enseñanza en el curso de Culturas Escolares, que inspiró este proyecto.
+
+---
+
 ## 📄 Licencia
 
 Puedes usar, modificar o adaptar este proyecto libremente.
